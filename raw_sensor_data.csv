@@ -1,0 +1,5 @@
+sensor_id,temperature,voltage
+S1,45,5.0
+S2,85,4.8
+S3,40,3.0
+S4,90,3.1
