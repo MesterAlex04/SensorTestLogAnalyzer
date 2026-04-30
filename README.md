@@ -28,6 +28,10 @@ The script follows a standard data pipeline:
    
 ## 5. Sample input (CSV)
   sensor_id,temperature,voltage
+  
   S1,45.2,5.0
+  
   S2,85.0,4.8
+  
   S3,40.0,3.1
+  
